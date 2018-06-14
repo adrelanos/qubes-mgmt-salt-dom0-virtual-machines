@@ -5,7 +5,7 @@
 # qvm.updates-via-whonix
 # ===============
 #
-# Setup UpdatesProxy to always use sys-whonix.
+# Setup UpdatesProxy to always use sys-whonix all TemplateVMs are upgraded over Tor.
 #
 # Execute:
 #   qubesctl state.sls qvm.updates-via-whonix dom0
